@@ -1,0 +1,24 @@
+{
+  "name": "Arctic Wallet",
+  "slug": "arctic",
+  "tags": [
+    "wallet",    
+    "exchange",    
+    "portfolio",    
+    "wealth management",   
+    "fiat ramp"
+  ],
+  "status": "",
+  "highlight": "Send, Receive, Hold, Exchange and buy AVAX C-chain and AVAX X-chain in a secure all-in-one non-custodial crypto wallet.",
+  "logo": "/img/arctic.png",
+  "website": "https://arcticwallet.io/",
+  "twitter": "https://twitter.com/arctic_wallet",
+  "telegram": "https://t.me/arctic_official_support",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
+}
